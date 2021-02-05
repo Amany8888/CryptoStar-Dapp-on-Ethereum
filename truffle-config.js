@@ -27,7 +27,7 @@ const infuraKey = "0e9a9fcd8f3a4af28830544ea5701621";
 //
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
-const mnemonic = "jaguar vast income damage merge theory isolate donor stuff page glance rich";
+const mnemonic = "My mnemonic";
 
 module.exports = {
   /**
